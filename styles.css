@@ -3,7 +3,7 @@
 .holder{ display: flex;              /* Items ko row me lane ke liye */
   justify-content: center;    /* Horizontally center */
   align-items: center;        /* Vertically center */
-  flex-wrap: wrap-reverse; 
+  flex-wrap: wrap; 
   gap:10px
 }	
 .item{
